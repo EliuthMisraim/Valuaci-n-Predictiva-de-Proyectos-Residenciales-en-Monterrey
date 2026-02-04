@@ -42,13 +42,4 @@ Uno de los mayores aportes de este modelo es la capacidad de explicar **qué fac
 El proyecto incluye un mapa generado con **Folium** que permite visualizar la "temperatura" de los precios en la zona y la ubicación estratégica de la competencia frente al nodo de valor.
 
 ---
-
-## ⚙️ Instalación y Uso
-1. Clonar el repositorio:
-   `git clone https://github.com/tu-usuario/nombre-repo.git`
-2. Instalar dependencias:
-   `pip install -r requirements.txt`
-3. Abrir el archivo `notebook_valuacion.ipynb` en Jupyter o Google Colab.
-
----
-**Contacto:** [Tu Nombre] - [Tu LinkedIn]
+**Contacto:** Eliuth Rojas - https://www.linkedin.com/in/eliuthrojas/
